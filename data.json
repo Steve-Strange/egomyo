@@ -1,1 +1,1 @@
-{"samples":[{"id":"trial-1","subject":"#1","action_name":"拇指"},{"id":"trial-2","subject":"#2","action_name":"拇指、食指"},{"id":"trial-3","subject":"#3","action_name":"拇指、食指、中指、无名指、小指"}],"dataset_url":null}
+{"samples":[{"id":"trial-1","subject":"#1","action_name":"拇指"},{"id":"trial-2","subject":"#2","action_name":"拇指、食指"},{"id":"trial-3","subject":"#3","action_name":"拇指、食指、中指、无名指、小指"}],"dataset_url":"https://huggingface.co/datasets/long2333/EgoMyo"}
